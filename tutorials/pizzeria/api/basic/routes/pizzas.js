@@ -9,7 +9,7 @@ const MENU = [
   },
   {
     id: 2,
-    title: 'Vegan',
+    title: 'Vegane',
     content: 'Tomates, Courgettes, Oignons, Aubergines, Poivrons',
   },
   {
