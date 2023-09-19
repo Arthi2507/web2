@@ -1,0 +1,19 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "cours web2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthi2507/web2.git"
+  },
+  "author": "Arthur Stoffels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthi2507/web2/issues"
+  },
+  "homepage": "https://github.com/Arthi2507/web2#readme"
+}
